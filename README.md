@@ -80,4 +80,4 @@ uv sync
 
 ## Code Standards
 
-Before contributing, read [`MANIFESTO.md`](./MANIFESTO.md) — it defines what "good code" means for this project (clean code, SOLID, testing, etc.) and is enforced during review.
+Read [`MANIFESTO.md`](./MANIFESTO.md) — it defines what "good code" means (clean code, SOLID, testing, etc.) 
